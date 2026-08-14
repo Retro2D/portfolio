@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(249, 181, 44);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.topbar {
+    background-color: rgb(206, 158, 70);
+    padding: 8px;
+}
+
+.panel {
+    width: 70%;
+    background-color: rgb(255, 206, 72);
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.panel .text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    font-size: 20px;
+}
