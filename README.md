@@ -1,3 +1,3 @@
 Welcome to my virtual "list of accomplishments", or resume!
 
-Not really much to explain here...  Check it out at [download to run rn, not deployed yet].  
+Built for the Stardance challenge presented by Hack Club.  Check it out at https://retro2d.github.io/portfolio/.  
